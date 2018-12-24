@@ -1,0 +1,1 @@
+This project is for the OpenClassrooms "manage your code with git and github - part2 - share a repository on github". It contains two other txt files.
